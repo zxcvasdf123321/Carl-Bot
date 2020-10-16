@@ -239,4 +239,4 @@ class CarlBot(commands.Bot):
 
 if __name__ == '__main__':
     carlbot = CarlBot()
-    carlbot.run()
+    carlbot.run("NzU5NzE0NjM2ODc4MTg0NDQ5.X3BhZA.kOI2dWOGkwg78t3Sk9y1n6DPp3M")
